@@ -5,7 +5,7 @@
 
 ---
 
-# 📝 SET — I (FULLY SOLVED)
+# 📝 SET — I (FULLY SOLVED) QUESTION / ANSWER
 
 ## SECTION A — Short Answer Type Questions (10 × 2 = 20 marks)
 *Attempt all questions.*
