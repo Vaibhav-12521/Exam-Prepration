@@ -1,0 +1,28 @@
+Image sampling and quantization
+2. 4-neighborhood, 8-neighborhood, and m-connectivity
+3. Image formation model (illumination × reflectance)
+4. Negative image transformation
+5. Histogram equalization
+6. Histogram matching
+7. Smoothing filters (mean, median)
+8. Sharpening filters (Laplacian, Sobel)
+9. Min filter (removes salt noise)
+10. Max filter (removes pepper noise)
+11. Image degradation model (g = h * f + η)
+12. Motion blur degradation model
+13. Prior knowledge in image restoration
+14. Arithmetic operations (addition, subtraction, multiplication, division)
+15. Logical operations (AND, OR, NOT, XOR, NAND, NOR)
+16. RGB color model
+17. HSI color model (Hue, Saturation, Intensity components)
+18. Color quantization
+19. Pseudocoloring (intensity slicing)
+20. Color constancy in machine vision
+21. Lossless vs lossy compression
+22. JPEG compression algorithm (color conversion → DCT → quantization → entropy coding)
+23. Hit-or-miss transformation (pattern detection)
+24. Opening (erosion then dilation)
+25. Closing (dilation then erosion)
+26. Medical imaging applications (X-ray, MRI enhancement)
+27. Remote sensing applications
+28. Industrial automation applications
